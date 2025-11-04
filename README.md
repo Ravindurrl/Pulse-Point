@@ -7,7 +7,7 @@ It integrates **telemedicine, fitness tracking, emotional support, and AI-driven
 
 ## 🤝 Project Collaboration
 
-This project is developed **in collaboration with our startup – Back Raw Logic ©️**
+This project is developed **in collaboration with our startup – Back Raw Logic ©️**,
 A forward-thinking technology startup dedicated to creating intelligent, human-centered software solutions that bridge innovation and real-world impact.
 
 Together, **Back Raw Logic** and the **PulsePoint Team** are building a smarter, more connected digital healthcare ecosystem for the global community.
